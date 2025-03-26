@@ -1,0 +1,5 @@
+<key>ProgramArguments</key>
+<array>
+    <string>/usr/local/bin/node</string>
+    <string>/Users/michaelfolk/Library/Application Support/Janet/mcp-system/dist/index.js</string>
+</array> 
